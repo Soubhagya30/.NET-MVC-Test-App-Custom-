@@ -1,4 +1,4 @@
-# .NEt-Test-App (Custom)
+# .NET MVC Test App (Custom)
 Steps for Integration:
 
 Please make sure you do the following while using this:

@@ -20,8 +20,8 @@ namespace MVC_TestApp.Controllers
             input.Add("payment_capture", 1);
 
             //RazorPay API ID and secret key
-            string key = "rzp_test_2pjQoIV7c1RY6C";
-            string secret = "nWwe91xQO3NIDzJUp1mUmr9O";
+            string key = "<Enter your key ID>";
+            string secret = "<Enter your key secret>";
 
             RazorpayClient client = new RazorpayClient(key, secret);
 
